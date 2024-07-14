@@ -1,0 +1,17 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GerEsportes-BackEnd/FileContentIndex
+/.vs/GerEsportes/v17/.wsuo
+/.vs/GerEsportes/v17/DocumentLayout.json
+/.vs/GerEsportes-BackEnd/v17/.suo
+/GerEsportes-BackEnd/obj/Debug/net6.0/GerEsportes-BackEnd.AssemblyInfo.cs
+/GerEsportes-BackEnd/obj/Debug/net6.0/GerEsportes-BackEnd.AssemblyInfoInputs.cache
+/GerEsportes-BackEnd/obj/Debug/net6.0/GerEsportes-BackEnd.assets.cache
+/GerEsportes-BackEnd/obj/Debug/net6.0/GerEsportes-BackEnd.csproj.AssemblyReference.cache
+/GerEsportes-BackEnd/obj/Debug/net6.0/GerEsportes-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+/GerEsportes-BackEnd/obj/GerEsportes-BackEnd.csproj.nuget.dgspec.json
+/GerEsportes-BackEnd/obj/GerEsportes-BackEnd.csproj.nuget.g.props
+/GerEsportes-BackEnd/obj/project.assets.json
+/GerEsportes-BackEnd/obj/project.nuget.cache

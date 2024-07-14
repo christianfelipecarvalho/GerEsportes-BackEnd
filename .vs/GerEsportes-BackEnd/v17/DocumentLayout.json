@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\dominios\\enuns\\enummodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\enuns\\enummodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\dominios\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\aplicacao\\aplicdashboards\\aplicdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\aplicacao\\aplicdashboards\\aplicdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\aplicacao\\aplicusuarios\\aplicusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\aplicacao\\aplicusuarios\\aplicusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\agendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\dominios\\mappers\\agendamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\mappers\\agendamapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\aplicacao\\aplicagendas\\aplicagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\aplicacao\\aplicagendas\\aplicagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|c:\\users\\tulio\\desktop\\geresportes\\geresportes-backend\\aplicacao\\aplicagendas\\iaplicagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\aplicacao\\aplicagendas\\iaplicagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:18:46.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumModalidade.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Enuns\\EnumModalidade.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Enuns\\EnumModalidade.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Enuns\\EnumModalidade.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Dominios\\Enuns\\EnumModalidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:20:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicDashboards\\AplicDashboard.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicDashboards\\AplicDashboard.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicDashboards\\AplicDashboard.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicDashboards\\AplicDashboard.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:20:01.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Usuarios\\Usuario.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Usuarios\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Usuarios\\Usuario.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Dominios\\Usuarios\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:02:08.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:58:01.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgendaMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Mappers\\AgendaMapper.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Mappers\\AgendaMapper.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Dominios\\Mappers\\AgendaMapper.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Dominios\\Mappers\\AgendaMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:47:11.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgendaController.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:44:54.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAplicAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\IAplicAgenda.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\IAplicAgenda.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\IAplicAgenda.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\IAplicAgenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:44:42.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AplicAgenda.cs",
+              "DocumentMoniker": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
+              "ToolTip": "C:\\Users\\Tulio\\Desktop\\GerEsportes\\GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAtwD4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T17:43:59.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
