@@ -45,7 +45,7 @@ namespace GerEsportes_BackEnd
 
             modelBuilder.ApplyConfiguration<Usuario>(new UsuarioConfig());
 
-            modelBuilder.ApplyConfiguration<PingEntity>(new PingEntityConfig());
+           // modelBuilder.ApplyConfiguration<PingEntity>(new PingEntityConfig());
 
             modelBuilder.ApplyConfiguration<DocumentoUsuario>(new DocumentoUsuarioConfig());
 

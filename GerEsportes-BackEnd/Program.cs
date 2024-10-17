@@ -26,7 +26,7 @@ builder.Services.AddControllers();
 
 // Adicione os serviços necessários ao contêiner.
 builder.Services.AddTransient<IServicoEmail, ServicoEmail>();
-builder.Services.AddHostedService<ServicoPing>();
+//builder.Services.AddHostedService<ServicoPing>();
 builder.Services.AddTransient<IServicoToken, ServicoToken>();
 
 //Adiciona repositórios
@@ -110,6 +110,13 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<Contexto>();
+    context.Database.Migrate();
+}
 
 // Configure o pipeline de solicitação HTTP
 app.UseSwagger();
