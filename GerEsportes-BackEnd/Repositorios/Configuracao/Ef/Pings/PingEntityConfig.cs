@@ -9,7 +9,7 @@ namespace GerEsportes_BackEnd.Repositorios.Configuracao.Ef.Pings
         public void Configure(EntityTypeBuilder<PingEntity> builder)
         {
 
-            builder.ToTable("gerping");
+            //builder.ToTable("gerping");
 
             builder.HasKey(c => new { c.Id });
 
