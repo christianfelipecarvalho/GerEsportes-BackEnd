@@ -15,3 +15,10 @@
 /GerEsportes-BackEnd/obj/GerEsportes-BackEnd.csproj.nuget.g.props
 /GerEsportes-BackEnd/obj/project.assets.json
 /GerEsportes-BackEnd/obj/project.nuget.cache
+*.txt
+/GerEsportes-BackEnd/Properties/PublishProfiles/FolderProfile.pubxml
+/GerEsportes-BackEnd/Properties/PublishProfiles/FolderProfile.pubxml.user
+/GerEsportes-BackEnd/Properties/PublishProfiles/FolderProfile1.pubxml
+/GerEsportes-BackEnd/Properties/PublishProfiles/FolderProfile1.pubxml.user
+*.json
+*.sqlite

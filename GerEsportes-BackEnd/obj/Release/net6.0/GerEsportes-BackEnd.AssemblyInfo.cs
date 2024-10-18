@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerEsportes-BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c64cbb8ade0e737ee24ba11821357f62c2c8461")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e262b317207334c0af86769503ede58b1765ffb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerEsportes-BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerEsportes-BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
