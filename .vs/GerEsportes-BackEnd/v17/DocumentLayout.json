@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\dominios\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\infra\\documentos\\filecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\infra\\documentos\\filecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\properties\\servicedependencies\\geresportes - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\properties\\servicedependencies\\geresportes - zip deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -13,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\aplicacao\\aplicusuarios\\aplicusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\aplicacao\\aplicusuarios\\aplicusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\dominios\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\dominios\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\dominios\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|solutionrelative:geresportes-backend\\controllers\\localcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C65359A-4B14-47D4-8F71-9C382B9080C7}|GerEsportes-BackEnd\\GerEsportes-BackEnd.csproj|d:\\app\\visual-studio\\projetos\\geresportes-backend-main\\geresportes-backend\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,16 +98,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AplicUsuario.cs",
-              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
-              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
-              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
-              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:47:21.926Z",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T02:51:54.102Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileControll.cs",
+              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Infra\\Documentos\\FileControll.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Infra\\Documentos\\FileControll.cs",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Infra\\Documentos\\FileControll.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Infra\\Documentos\\FileControll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:50:27.077Z"
             },
             {
               "$type": "Document",
@@ -105,27 +129,26 @@
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Program.cs",
               "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Program.cs",
               "RelativeToolTip": "GerEsportes-BackEnd\\Program.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAApwHEAAAAAAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T01:29:07.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Contexto.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Contexto.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Contexto.cs",
               "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Contexto.cs",
               "RelativeToolTip": "GerEsportes-BackEnd\\Contexto.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAA2wC8AAAAMAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA2wC8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:10:03.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T01:10:03.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "UsuarioMapper.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Dominios\\Mappers\\UsuarioMapper.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Mappers\\UsuarioMapper.cs",
@@ -137,19 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Dominios\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Dtos\\LoginDto.cs",
               "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Dominios\\Dtos\\LoginDto.cs",
               "RelativeToolTip": "GerEsportes-BackEnd\\Dominios\\Dtos\\LoginDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:13:04.941Z"
+              "WhenOpened": "2024-10-15T16:13:04.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "LocalController.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\LocalController.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\LocalController.cs",
@@ -157,11 +181,37 @@
               "RelativeToolTip": "GerEsportes-BackEnd\\Controllers\\LocalController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:12:53.314Z"
+              "WhenOpened": "2024-10-15T16:12:53.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:11:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profile.arm.json",
+              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Properties\\ServiceDependencies\\geresportes - Zip Deploy\\profile.arm.json",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Properties\\ServiceDependencies\\geresportes - Zip Deploy\\profile.arm.json",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Properties\\ServiceDependencies\\geresportes - Zip Deploy\\profile.arm.json",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Properties\\ServiceDependencies\\geresportes - Zip Deploy\\profile.arm.json",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAEwJMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T02:52:14.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\UsuarioController.cs",
@@ -173,20 +223,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\appsettings.json",
-              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\appsettings.json*",
-              "RelativeToolTip": "GerEsportes-BackEnd\\appsettings.json*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABnAAAA",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\appsettings.json",
+              "RelativeToolTip": "GerEsportes-BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-14T21:16:06.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T21:16:06.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "AplicUsuario.cs",
+              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicUsuarios\\AplicUsuario.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T01:47:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AplicAgenda.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
@@ -194,12 +255,11 @@
               "RelativeToolTip": "GerEsportes-BackEnd\\Aplicacao\\AplicAgendas\\AplicAgenda.cs",
               "ViewState": "AQIAAE4AAAAAAAAAAAAuwFQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T01:47:38.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T01:47:38.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "PingEntityConfig.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Repositorios\\Configuracao\\Ef\\Pings\\PingEntityConfig.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Repositorios\\Configuracao\\Ef\\Pings\\PingEntityConfig.cs",
@@ -211,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Local.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Dominios\\Locais\\Local.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Dominios\\Locais\\Local.cs",
@@ -223,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ServicoPing.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Aplicacao\\Servicos\\ServicoPing.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Aplicacao\\Servicos\\ServicoPing.cs",
@@ -235,19 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "GerEsportes-BackEnd\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:11:13.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "EmailController.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\EmailController.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\EmailController.cs",
@@ -259,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AgendaController.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Controllers\\AgendaController.cs",
@@ -271,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "geresportes - Zip Deploy.pubxml",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Properties\\PublishProfiles\\geresportes - Zip Deploy.pubxml",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Properties\\PublishProfiles\\geresportes - Zip Deploy.pubxml",
@@ -283,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ConfigurationSettingsToken.cs",
               "DocumentMoniker": "D:\\APP\\VISUAL-STUDIO\\PROJETOS\\GerEsportes-BackEnd-main\\GerEsportes-BackEnd\\Infra\\ConfigurationSettingsToken.cs",
               "RelativeDocumentMoniker": "GerEsportes-BackEnd\\Infra\\ConfigurationSettingsToken.cs",

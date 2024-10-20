@@ -18,7 +18,7 @@ namespace GerEsportes_BackEnd.Controllers
         }
 
         [Route("Login")]
-        [HttpPut]
+        [HttpPost]
         public async Task<ActionResult<IEnumerable<object>>> EnviarEmail([FromBody] LoginDto dto)
         {
             try
@@ -32,7 +32,7 @@ namespace GerEsportes_BackEnd.Controllers
         }
 
         [Route("Refresh")]
-        [HttpPut]
+        [HttpPost]
         public async Task<ActionResult<IEnumerable<object>>> Refresh([FromBody] RefreshDto dto)
         {
             try
