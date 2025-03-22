@@ -77,7 +77,7 @@ builder.Services.AddCors(options =>
 // Adicione o serviço de contexto do banco de dados usando as configurações do appsettings.json
 builder.Services.AddDbContext<Contexto>(options =>
 {
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseNpgsql(Environment.GetEnvironmentVariable("GERESPORTES_DB") ?? builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 
