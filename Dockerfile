@@ -2,8 +2,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 
-# Copia o arquivo .csproj do diretório correto para o container
-COPY GerEsportes-BackEnd/GerEsportes-BackEnd/GerEsportes-BackEnd.csproj ./GerEsportes-BackEnd/
+# Copia o arquivo .csproj para o diretório correto no container
+COPY GerEsportes-BackEnd/GerEsportes-BackEnd.csproj ./GerEsportes-BackEnd/
 
 # Restaura as dependências
 WORKDIR /app/GerEsportes-BackEnd
