@@ -569,3 +569,6 @@ D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\D
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Debug\net6.0\GerEspor.00B3DCCE.Up2Date
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Debug\net6.0\GerEsportes-BackEnd.genruntimeconfig.cache
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Debug\net6.0\ref\GerEsportes-BackEnd.dll
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\Geresportes-BackEnd\bin\Debug\net6.0\GerEsportes-BackEnd.staticwebassets.endpoints.json
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\Geresportes-BackEnd\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\Geresportes-BackEnd\obj\Debug\net6.0\staticwebassets\msbuild.GerEsportes-BackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

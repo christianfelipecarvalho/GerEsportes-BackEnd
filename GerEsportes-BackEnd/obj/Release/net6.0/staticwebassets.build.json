@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "5ziAy2rHUsNrb2IH2pBU/hAuiiL+K0yVCpSofbz/aTg=",
+  "Hash": "ZWCtl/DcIDNZxy69kCqGuTqMt4yMF8KhgAeHYEAWyKg=",
   "Source": "GerEsportes-BackEnd",
   "BasePath": "_content/GerEsportes-BackEnd",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

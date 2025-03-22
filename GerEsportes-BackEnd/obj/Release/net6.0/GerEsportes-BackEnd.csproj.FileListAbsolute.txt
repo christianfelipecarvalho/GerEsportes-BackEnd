@@ -300,3 +300,7 @@ D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\R
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\GerEsportes-BackEnd.pdb
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\GerEsportes-BackEnd.genruntimeconfig.cache
 D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\ref\GerEsportes-BackEnd.dll
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\bin\Release\net6.0\GerEsportes-BackEnd.staticwebassets.endpoints.json
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\staticwebassets.build.endpoints.json
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\staticwebassets\msbuild.GerEsportes-BackEnd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\APP\VISUAL-STUDIO\PROJETOS\GerEsportes-BackEnd-main\GerEsportes-BackEnd\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
